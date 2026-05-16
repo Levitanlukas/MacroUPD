@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/Levitanlukas/MacroUPD/releases/download/v1.0.0/Macro.exe",
-  "changelog": "Update test 3"
+  "version": "1.0.1",
+  "download_url": "https://raw.githubusercontent.com/Levitanlukas/MacroUPD/main/Macro.py", 
+  "changelog": "Bugfixes und Stabilitätsverbesserungen"
 }
